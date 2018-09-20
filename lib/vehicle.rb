@@ -1,5 +1,7 @@
 class Vehicle
 
-  def initialize(sender, receiver, amount)
+  def initialize(wheel_size, receiver, amount)
+    wheel_size
+  end
 
 end
