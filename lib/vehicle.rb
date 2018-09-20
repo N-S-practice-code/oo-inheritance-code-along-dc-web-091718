@@ -1,5 +1,5 @@
 class Vehicle
 
-defined
+  def initialize(sender, receiver, amount)
 
 end
